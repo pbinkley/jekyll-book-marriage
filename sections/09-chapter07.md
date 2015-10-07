@@ -219,7 +219,7 @@ stand condemned by our institutional system to lead a
 thwarted or unsatisfactory family life.
 
 [^7-1]: Halide Edib, "A Turkish Feminist Views Women Here," *New York
-Times Magazine*, October 7, 1928. 
+	Times Magazine*, October 7, 1928. 
 
 The critical fact in marriage, in so far as convention is
 concerned, is, therefore, the agreement or disagreement
@@ -401,7 +401,7 @@ important part of them, whereby we identify them in
 our minds.
 
 [^7-2]: R. E. Park and E. W. Burgess, *Introduction to the Science of
-Sociology* (University of Chicano Press, Chicago, 1924), p. 55. 
+	Sociology* (University of Chicano Press, Chicago, 1924), p. 55. 
 
 But in a love affair another way of thinking prevails.
 The rationale of biological selectivity requires it. In

@@ -164,7 +164,7 @@ of motives must be assumed; otherwise ethical systems
 and codes of criminal law are irrational.
 
 [^10-1]: R. Kantor, *Principles of Psychology* (Alfred A. Knopf, New
-York, 1924), Vol. 1., p. 129. 
+	York, 1924), Vol. 1., p. 129. 
 
 \[p.107\] And yet it is clear that not all behavior is motivated.
 Thomson uses "motive" to mean all factors moving to
@@ -219,7 +219,7 @@ are part of the psychological equipment of the domestic
 man.
 
 [^10-2]: Margaret Mead, *Coming of Age in Samoa* (William Morrow, New
-York, 1928). 
+	York, 1928). 
 
 In normal experience motives are, as we say, "mixed."
 We are seldom able to pin them down and identify them

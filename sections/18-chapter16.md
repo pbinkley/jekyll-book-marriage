@@ -54,7 +54,7 @@ only thirty-two, thought adultery difficult or impossible
 to justify. He classified the attitudes of these two hundred spouses toward adultery as follows:
 
 [^16-1]: V. F. Calverton, *The Bankruptcy of Marriage* (Macaulay, New
-York, 1928).  
+	York, 1928).  
 
 > \[p.190\] Conservative view: 47 spouses or 24 per cent  
 Liberal view: 124 spouses or 62 per cent  
@@ -384,12 +384,12 @@ of his more sublimated tendencies, desires and aspirations are
 doomed to suffer permanent lack of gratification.[^16-2]
 
 [^16-2]: J. C. Fluegel, *The Psycho-analytic Study of the Family* (The
-International Psycho-analytic Press, London - New York, 1921), p. 110.
-Freud's hypothesis that this dissociation is a direct result of infantile
-incestuous desires and jealousies seems to the writer far-fetched. The
-phenomenon, common enough, would seem to be sufficiently accounted
-for by the strong anti-sexual bias in the training of children -- a bias
-which is motivated by the desire to keep the children chaste till marriage. 
+	International Psycho-analytic Press, London - New York, 1921), p. 110.
+	Freud's hypothesis that this dissociation is a direct result of infantile
+	incestuous desires and jealousies seems to the writer far-fetched. The
+	phenomenon, common enough, would seem to be sufficiently accounted
+	for by the strong anti-sexual bias in the training of children -- a bias
+	which is motivated by the desire to keep the children chaste till marriage. 
 
 The enforcement of the monopoly ideal with respect to
 attempts at love-tenure marriages is accomplished largely
@@ -681,7 +681,7 @@ a legalized temporary sex attraction, which, unable to
 progress into marriage comradeship, ends in anticlimax.[^16-3]
 
 [^16-3]: Groves and Ogburn, *American Marriage* (Henry Holt, New York,
-1928), p. 106. 
+	1928), p. 106. 
 
 In terms of domestic theory, a revision of standards
 of virginity is most dangerous to domestic values if the

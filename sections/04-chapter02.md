@@ -60,9 +60,9 @@ early twenties, govern their conduct on this schoolgirl
 theory.[^2-1]
 
 [^2-1]: This fact is objectively demonstrated in the interesting and scholarly
-study of an average American community made under the direction of
-Robert S. Lynd and Helen Merrell Lynd: *Middletown* (Harcourt, Brace,
-New York, 1929).] 
+	study of an average American community made under the direction of
+	Robert S. Lynd and Helen Merrell Lynd: *Middletown* (Harcourt, Brace,
+	New York, 1929).] 
 
 \[p.9\] Whence came this curious imagery wherewith so many
 of us are accustomed to construct our views of family
@@ -304,7 +304,8 @@ of normal people.[^2-4] There is a new interest and a new
 spirit of inquiry in matters relating to the family, but
 there has not issued forth from the schools any new doctrine to meet the needs of the common man, and to supplant the schoolgirl and the tomcat theories of marriage.
 
-[^2-3]: "The Protestant Church View of Sex, Love and Marriage," in *Current History*, February, 1929. 
+[^2-3]: "The Protestant Church View of Sex, Love and Marriage," in *Current 
+	History*, February, 1929. 
 
 The material for such a new doctrine is being accumulated with great diligence. There is under way the creation of a social science which will devote itself exclusively
 to the study of the family. Ernest R. Groves, even though
@@ -326,23 +327,23 @@ a periodical be devoted to charities or child welfare,
 parentage or prostitution, its editors recognize the problem of the family as an insistent object of their attention.
 
 [^2-4]: Dr. G. V. Hamilton is a pioneer in the statistical investigation of the
-sex lives of normal married people. He selected as subjects one hundred
-married men and one hundred married women of New York City, trying
-to balance his selection in such a way that about half were happily
-married, half unhappily. He then took down the answers these subjects
-gave to a long series of carefully propounded and devastatingly intimate
-questions. The number of cases examined was too small, the selection
-too arbitrary, even the scope of the questioning (predominantly on sex
-matters) too restricted, to allow his findings to stand as a true statistical
-picture of marriage in America. The investigator himself disavows this
-intention. The fact remains that on many of the most significant points
-of fact in marriage relations, Dr. Hamilton's figures are the only ones
-that represent more than a guess. For Hamilton has done several things
-that are new. Although his approach is that of a psychiatrist, he has
-undertaken to study normal marriage. And he has striven relentlessly
-to secure results into which no surreptitious influence of the investigator's
-prejudices has crept. His results are published in two volumes, *A Research in Marriage* by Hamilton, and *What is Wrong with Marriage*, by
-Hamilton and McGowan (A. & C. Boni, New York, 1929). 
+	sex lives of normal married people. He selected as subjects one hundred
+	married men and one hundred married women of New York City, trying
+	to balance his selection in such a way that about half were happily
+	married, half unhappily. He then took down the answers these subjects
+	gave to a long series of carefully propounded and devastatingly intimate
+	questions. The number of cases examined was too small, the selection
+	too arbitrary, even the scope of the questioning (predominantly on sex
+	matters) too restricted, to allow his findings to stand as a true statistical
+	picture of marriage in America. The investigator himself disavows this
+	intention. The fact remains that on many of the most significant points
+	of fact in marriage relations, Dr. Hamilton's figures are the only ones
+	that represent more than a guess. For Hamilton has done several things
+	that are new. Although his approach is that of a psychiatrist, he has
+	undertaken to study normal marriage. And he has striven relentlessly
+	to secure results into which no surreptitious influence of the investigator's
+	prejudices has crept. His results are published in two volumes, *A Research in Marriage* by Hamilton, and *What is Wrong with Marriage*, by
+	Hamilton and McGowan (A. & C. Boni, New York, 1929). 
 
 Despite this apparatus of discussion and erudition,
 there has been so far no thorough and consistent scholarly

@@ -283,7 +283,8 @@ change the picture of savage life and to portray primitive
 \[p.41\] man as neither an extreme collectivist nor an intransigeant [*sic*]
 individualist, but "like man in general, a mixture of both."
 
-[^4-1]: Paraphrased from B. Malinowski, *Crime and Custom in Savage Society* (Harcourt, Brace, New York, 1926), p. 3. 
+[^4-1]: Paraphrased from B. Malinowski, *Crime and Custom in Savage Society*
+	(Harcourt, Brace, New York, 1926), p. 3. 
 
 The unitary, self-determining individual human being
 is an ultimate datum which the social sciences find it difficult to dispense with. His very existence connotes the

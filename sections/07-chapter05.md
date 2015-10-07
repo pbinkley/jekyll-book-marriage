@@ -154,7 +154,8 @@ ever existed. It is wrong to consider this an instance of
 in which the law describes as marriage something that
 lacks the essence of the marriage situation.
 
-[^5-1]: Cited in E. R. Mowrer, *Family Disorganization* (University of Chicago Press, Chicago, 1927), p. 183. 
+[^5-1]: Cited in E. R. Mowrer, *Family Disorganization* (University of 
+	Chicago Press, Chicago, 1927), p. 183. 
 
 For there is certainly in marriage a reality which runs
 deeper than the definitions which our institutions, or the

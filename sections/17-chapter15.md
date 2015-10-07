@@ -43,20 +43,21 @@ requires in consequence that they keep the thought of
 whether or not they want children constantly in mind.
 The only effective decision against children is that decision which is an ever present article of faith.[^15-1]
 
-[^15-1]: Contraceptive practices are practically universal among the professional and business people of America, though not yet universal in the
-working-class families. Dr. Hamilton found that all the subjects of his
-research used contraceptives except those who desired children, and those
-who were sterile. Katherine B. Davis found that their use was practically universal among college women. Dr. Cooper estimates that of
-a certain contraceptive device, no less than 2,000,000 are used every
-day. The survey of *Middletown* bore out this conclusion as regards business-class families. The 27 wives of the business class
-who gave evidence in the inquiry all made use of contraceptives.
-But as to the 77 working-class women, only 22 used contraceptives,
-and of these only 10 used devices that were as good, technologically, as 
-those used by the business-class women. (*Middletown*, p. 134). The 
-publishers of the latest and best book on the subject, Dr. Cooper's 
-*The Technique of Contraception* (Day-Nichols, New York, 1928), believes that very few of the physicians of the country are equipped to give 
-the best advice on birth control. Only two or three medical colleges
-give courses on the subject, and probably 90 or 95 per cent of the physicians have never received instruction. 
+[^15-1]: Contraceptive practices are practically universal among the 
+	professional and business people of America, though not yet universal in the
+	working-class families. Dr. Hamilton found that all the subjects of his
+	research used contraceptives except those who desired children, and those
+	who were sterile. Katherine B. Davis found that their use was practically universal among college women. Dr. Cooper estimates that of
+	a certain contraceptive device, no less than 2,000,000 are used every
+	day. The survey of *Middletown* bore out this conclusion as regards business-class families. The 27 wives of the business class
+	who gave evidence in the inquiry all made use of contraceptives.
+	But as to the 77 working-class women, only 22 used contraceptives,
+	and of these only 10 used devices that were as good, technologically, as 
+	those used by the business-class women. (*Middletown*, p. 134). The 
+	publishers of the latest and best book on the subject, Dr. Cooper's 
+	*The Technique of Contraception* (Day-Nichols, New York, 1928), believes that very few of the physicians of the country are equipped to give 
+	the best advice on birth control. Only two or three medical colleges
+	give courses on the subject, and probably 90 or 95 per cent of the physicians have never received instruction. 
 
 There is a certain stultifying habit of mind by which
 \[p.169\] merely potential children are thought of as having
@@ -288,7 +289,8 @@ psychoanalysts whose doctrine, as Malinowski aptly puts
 it, is a doctrine of the influence of family life upon the
 human mind.[^15-2]
 
-[^15-2]: See also J. C. Fluegel, *A Psycho-analytic Study of the Family* (International Psycho-analytic Press, London-New York, 1921). 
+[^15-2]: See also J. C. Fluegel, *A Psycho-analytic Study of the Family* 
+	(International Psycho-analytic Press, London-New York, 1921). 
 
 Every individual first learns *self, love,* and *hate* in his
 family environment. His first experience of love of an
@@ -466,7 +468,7 @@ the physical bond between parent and child, but despite that
 fact and because of adult companionship.[^15-3]
 
 [^15-3]: David Seabury, *Growing into Life* (Horace Liveright, New York,
-1928), p. 378. 
+	1928), p. 378. 
 
 Certainly the parents can continue to cherish their
 children throughout life -- the children owe nothing
