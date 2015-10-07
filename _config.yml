@@ -26,3 +26,6 @@ navigation:
       - title: Chapters
         dropdown: sections
 
+gems:
+  - jekyll-sitemap
+
