@@ -325,9 +325,10 @@ and yielding, if there is no adequate subtlety or firmness
 of character back of it, sacrifices the pedagogic effects
 for the histrionic. Both of these extremes are bad marriage art.
 
-[^17-1]: For an insight into the importance of the difference between the participant attitude and the spectator attitude, the writers are indebted to
-an essay by Edwin Clapp, to be published in the *South Atlantic
-Quarterly* in 1929. 
+[^17-1]: For an insight into the importance of the difference between the 
+	participant attitude and the spectator attitude, the writers are indebted to
+	an essay by Edwin Clapp, to be published in the *South Atlantic
+	Quarterly* in 1929. 
 
 \[p.230\] In the art of contention, in pedagogics and histrionics,
 as indeed in all the phenomena of marriage-as-tension,
@@ -769,7 +770,7 @@ privileged to see. The sad part of it is that we see it so seldom,
 and then often so late.[^17-2]
 
 [^17-2]: Havelock Ellis, "Love as an Art," in Keyserling: *The Book of
-Marriage* (Harcourt, Brace, New York, 1926), p. 387. 
+	Marriage* (Harcourt, Brace, New York, 1926), p. 387. 
 
 Just as the erotic experience accomplishes an integration of the personality, so episodes of conflict render the
 person more adaptable to his surroundings. These effects

@@ -105,16 +105,16 @@ not the static condition of the mind which is preliminary
 to a betrothal or a wedding.[^12-1]
 
 [^12-1]: ". . . love is not, as they say or give to understand, a crisis, a drama
-in one act. If it were nothing but that, an accident so transitory would
-hardly be worth the trouble of giving it notice. . . . But fortunately love,
-and by that I mean a faithful love fixed upon an object, is a succession,
-often long, of very different passions which feed life and renew it . . . 
-the flame does not burn except on condition that it rises, lowers, rises
-again and varies in form and color. Nature has made provision for
-this. The aspects of a woman change unceasingly; one woman includes
-a thousand. And the imagination of the man varies the point of view.
-Upon a foundation, generally solid and tenacious of habit, the situation traces changes which modify and rejuvenate affection." J. Michelet,
-*L'Amour* (Paris, 1859), p. 8-9. 
+	in one act. If it were nothing but that, an accident so transitory would
+	hardly be worth the trouble of giving it notice. . . . But fortunately love,
+	and by that I mean a faithful love fixed upon an object, is a succession,
+	often long, of very different passions which feed life and renew it . . . 
+	the flame does not burn except on condition that it rises, lowers, rises
+	again and varies in form and color. Nature has made provision for
+	this. The aspects of a woman change unceasingly; one woman includes
+	a thousand. And the imagination of the man varies the point of view.
+	Upon a foundation, generally solid and tenacious of habit, the situation traces changes which modify and rejuvenate affection." J. Michelet,
+	*L'Amour* (Paris, 1859), p. 8-9. 
 
 \[p.132\] If love in marriage is identified with domestic activity,
 there is no further difficulty in acknowledging the possibility of permanent love. Love and time are allies.

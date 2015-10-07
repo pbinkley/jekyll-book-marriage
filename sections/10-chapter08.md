@@ -238,12 +238,12 @@ an excellence, not a blemish, in married life. In the
 \[p.86\] words which Kahlil Gibran's Prophet addressed to husbands and wives:
 
 [^8-1]: The logical difficulty of conceiving of complete persons as members
-of a collective unity has been explored in the theological discussion of
-the Trinity, which requires of us that we think of the Trinity without
-"confusing the persons nor confounding the substance."
+	of a collective unity has been explored in the theological discussion of
+	the Trinity, which requires of us that we think of the Trinity without
+	"confusing the persons nor confounding the substance."
 
 [^8-2]: Count Hermann Keyserling, *The Book of Marriage* (Harcourt,
-Brace, New York, 1926), p. 8. 
+	Brace, New York, 1926), p. 8. 
 
 > . . . Let there be spaces in your togetherness  
 And let the winds of the heavens dance between you.  
@@ -276,7 +276,7 @@ persuasion which is more subtle but no less effective
 than an outright and independent willfulness.
 
 [^8-3]: Reprinted from Kahlil Gibran, *The Prophet* (Alfred A. Knopf, New
-York, 1923), by special permission of the publishers. 
+	York, 1923), by special permission of the publishers. 
 
 The laws of domestic tension are not the laws of political dominion. The two differ in method and principle.
 In family life it is often the weakest who has his way,
