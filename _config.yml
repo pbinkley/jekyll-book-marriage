@@ -2,13 +2,13 @@
 # Site settings
 title: What is Right with Marriage
 brand: What is Right with Marriage
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.google.com"
+  Robert C. Binkley and Frances W. Binkley, What is Right with Marriage: 
+  An Outline of Domestic Theory (New York: D. Appleton, 1929)
+baseurl: "/rcb/works/marriage/" # the subpath of your site, e.g. /blog/
+url: "https://www.wallandbinkley.com"
+
+# Build settings
 editor: Peter Binkley
 license_icon: publicdomain
 license_text: "To the extent possible under law, Peter Binkley has waived all copyright and related or neighboring rights to \"What is Right with Marriage\". This work is published from: Canada."
@@ -24,9 +24,9 @@ exclude: ['_data/downloads.yml','downloads']
 navigation:
   left:
     links:
-      - title: About
-        href: /about/
-      - title: RCB Home
+      - title: Home
+        href: "" 
+      - title: Robert C. Binkley 
         href: https://www.wallandbinkley.com/rcb/
       - title: Chapters
         dropdown: sections
