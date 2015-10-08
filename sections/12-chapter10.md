@@ -180,19 +180,16 @@ exile in the same way that the light striking the eye operates to contract the p
 order five modes of action as follows:
 
 > 1. Automatic (Actions not remembered, anaesthesia, stupor, coma, etc.)
-
-> 2. Subreactionalistic (Individual concentrated on stimulus but action not sharply pointed; habit reactions often in this class.)
-
+> 2. Subreactionalistic (Individual concentrated on stimulus but action not 
+	sharply pointed; habit reactions often in this class.)
 > 3. Reactionalistic (This includes the "flash of genius"
-type of behavior.)
-
+	type of behavior.)
 > 4. Subpersonalistic (This includes the reactions of the
-person as represented by his likes,
-tastes, abilities, etc.)
-
+	person as represented by his likes,
+	tastes, abilities, etc.)
 > 5. Personalistic ("Whenever there is some problem
-of advantage or disadvantage"; all
-motivated or purposive behavior.) 
+	of advantage or disadvantage"; all
+	motivated or purposive behavior.) 
 
 \[p.108\] The intimate connection between motives on the one
 hand and personality on the other is attested in Occidental thinking whenever human behavior is ascribed to
