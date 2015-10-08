@@ -74,13 +74,12 @@ These presuppositions, which distinguish economic theory
 from other theories, are the following:
 
 > 1. That there are individuals having desires
-
 > 2. That these ends or desires are at present competitive (*i.e.*,
-that they have magnitude on a scale common to a number
-of individuals).
-
-> 3. That the interaction between the individuals with respect to these desires produces a common resultant, which
-follows automatically from the competition of the individuals, and can be stated relationally.
+	that they have magnitude on a scale common to a number
+	of individuals).
+> 3. That the interaction between the individuals with respect to these 
+	desires produces a common resultant, which
+	follows automatically from the competition of the individuals, and can be stated relationally.
 
 The first presupposition is the *economic man;* the second is the *economic good;* the third is the *market* or
 *economic system*.

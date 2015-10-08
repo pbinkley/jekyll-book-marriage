@@ -220,19 +220,6 @@ indicated in the chart on the following page.
 In exploring the nature of the family from these
 postulates we will have to take into account political,
 economic, and social facts, just as political theory, economics, and sociology have each something to say about 
-
-\[p.28\] 
-
-### DOMESTIC THEORY AND THE SOCIAL SCIENCES
-
-||*Science or Discipline*|*Relationship*|*Subject Matter*|*View of Human Nature*|
-|----|----|----|----|----|
-|Social Sciences: deal with man in relationship to other men|||||
-||Sociology|Social influence|The Group|Man responds to influence of group.|
-||Political theory|Political domination|The State|Man subject to the will of other persons under authority.|
-||Economic theory|Economic interest|The Economic System|Man acts in his own interests.|
-||Domestic theory|Personal|The Family|Man acts in the interests of another person.| 
-
 \[p.29\] the family. We will recognize frankly the limitations of
 all theorizing: that theory cannot take the place of wisdom. And yet we feel the driving need for a rigid and
 self-consistent analysis of the domestic problem. Moreover, we are confident that theories relating to human
@@ -246,7 +233,19 @@ are domestic, whereas others are nondomestic. Such is
 our ultimate goal. Our starting point is the personal
 character of the relationship of man to wife.
 
-In writing an Outline of Domestic Theory one would
+\[p.28\] 
+
+#### DOMESTIC THEORY AND THE SOCIAL SCIENCES
+
+||*Science or Discipline*|*Relationship*|*Subject Matter*|*View of Human Nature*|
+|----|----|----|----|----|
+|Social Sciences: deal with man in relationship to other men|||||
+||Sociology|Social influence|The Group|Man responds to influence of group.|
+||Political theory|Political domination|The State|Man subject to the will of other persons under authority.|
+||Economic theory|Economic interest|The Economic System|Man acts in his own interests.|
+||Domestic theory|Personal|The Family|Man acts in the interests of another person.| 
+
+\[p.29\] In writing an Outline of Domestic Theory one would
 endeavor first to define this personal relationship on which
 marriage is based, just as the political scientist puzzles
 the freshman by a definition of sovereignty on the first

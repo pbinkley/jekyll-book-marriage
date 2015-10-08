@@ -84,61 +84,59 @@ chain for his watch. When both melt together in mutual
 appreciation of the sacrifice that each has made for the
 other, they share in the mystical gift of the Wise Men.
 This story illustrates domestic behavior on the highest
-symmetrical level, where there is cherishing and appre- 
+symmetrical level, where there is cherishing and appre\[p.160\]ciation on both sides. Out of such conduct as this a
+family develops a romantic character.
 
 \[p.159\] 
 
-### THE FOUR TYPES OF THE NATURAL FAMILY
+> ### THE FOUR TYPES OF THE NATURAL FAMILY
+>
+> **SYMMETRICAL LEVEL: ROMANTIC SYSTEM**
+>
+> *Activity ↣ Appreciation*  
+> *Appreciation ↢ Activity*  
+>
+> Illustration: O. Henry's story;
+> "The Gift of the Magi"
+>
+> or
+>
+> *Activity ↣ No response*  
+> *No response ↢ Activity*  
+>
+> This is an unstable variant of
+> the Romantic System.
+>
+> **ASYMMETRICAL LEVEL: PSEUDO-PATRIARCHAL SYSTEM**
+>
+> *Activity ↣ Appreciation*  
+>
+> or
+>
+> *Activity ↣ No response*  
+> *Appreciation ↢ Activity*  
+>
+> Shaw's "Candida"; Ibsen's
+> "Doll's House"; Barrie's
+> "What Every Woman Knows".
+> The ideal family of the
+> Victorian age.
+>
+> **UNILATERAL LEVEL: PSEUDO-PARENTAL SYSTEM**
+>
+> *Activity ↣ No response*  
+>
+> Flaubert's "Madame Bovary".
+>
+> **NONDOMESTIC LEVEL IMPERSONAL SYSTEM**
+>
+> *Neither Benevolent Activity nor appreciation* / *Neither Benevolent Activity nor appreciation*
+>
+> Marriage of State; marriage
+> for family alliance, for
+> duty, for convenience. 
 
-#### SYMMETRICAL LEVEL: ROMANTIC SYSTEM
-
-*Activity ↣ Appreciation*  
-*Appreciation ↢ Activity*  
-
-Illustration: O. Henry's story;
-"The Gift of the Magi"
-
-or
-
-*Activity ↣ No response*  
-*No response ↢ Activity*  
-
-This is an unstable variant of
-the Romantic System.
-
-#### ASYMMETRICAL LEVEL: PSEUDO-PATRIARCHAL SYSTEM
-
-*Activity ↣ Appreciation*  
-
-or
-
-*Activity ↣ No response*  
-*Appreciation ↢ Activity*  
-
-Shaw's "Candida"; Ibsen's
-"Doll's House"; Barrie's
-"What Every Woman Knows".
-The ideal family of the
-Victorian age.
-
-#### UNILATERAL LEVEL: PSEUDO-PARENTAL SYSTEM
-
-*Activity ↣ No response*  
-
-Flaubert's "Madame Bovary".
-
-#### NONDOMESTIC LEVEL IMPERSONAL SYSTEM
-
-*Neither Benevolent Activity nor appreciation* / *Neither Benevolent Activity nor appreciation*
-
-Marriage of State; marriage
-for family alliance, for
-duty, for convenience. 
-
-\[p.160\] ciation on both sides. Out of such conduct as this a
-family develops a romantic character.
-
-It is a matter of record in many family case histories
+\[p.160\] It is a matter of record in many family case histories
 that young people infused with romantic feeling toward
 each other will sometimes devote all their thought and
 energy to the service of each other, quite without noticing
