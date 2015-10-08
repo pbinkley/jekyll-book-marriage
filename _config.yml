@@ -5,7 +5,7 @@ brand: What is Right with Marriage
 description: > # this means to ignore newlines until "baseurl:"
   Robert C. Binkley and Frances W. Binkley, What is Right with Marriage: 
   An Outline of Domestic Theory (New York: D. Appleton, 1929)
-baseurl: "/rcb/works/marriage/" # the subpath of your site, e.g. /blog/
+baseurl: "/rcb/works/marriage" # the subpath of your site, e.g. /blog/
 url: "https://www.wallandbinkley.com"
 
 # Build settings
@@ -25,9 +25,9 @@ navigation:
   left:
     links:
       - title: Home
-        href: "" 
+        href: /rcb/works/marriage/ 
       - title: Robert C. Binkley 
-        href: https://www.wallandbinkley.com/rcb/
+        href: /rcb/
       - title: Chapters
         dropdown: sections
 
