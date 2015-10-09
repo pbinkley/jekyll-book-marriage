@@ -30,7 +30,7 @@ new to his experience, he will assert that they are not
 subject to change. He eagerly pledges paradoxes: that
 the flux of life is to be arrested, the course of time is to \[p.129\] be checked, that the future is to conform to this supreme
 present, and that love in its transitory aspect is to remain
-unchanged The form of his protest reveals his deep-seated belief that time and love are not natural allies but
+unchanged. The form of his protest reveals his deep-seated belief that time and love are not natural allies but
 potential enemies. His conception of love is such that he
 can only stand in helpless horror before the prospect that
 the day must come
