@@ -30,6 +30,8 @@ navigation:
         href: /rcb/
       - title: Chapters
         dropdown: sections
+      - title: Downloads
+        dropdown: downloads
 
 gems:
   - jekyll-sitemap
