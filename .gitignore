@@ -1,3 +1,4 @@
 _site
 .sass-cache
-deploy.sh
+_scripts/deploy.sh
+assets/downloads
