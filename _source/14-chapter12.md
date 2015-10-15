@@ -5,6 +5,7 @@ permalink: 14-chapter12.html
 id: s14
 group: sections
 ---
+## Chapter XII: Time, Love, and Habit
 
 WHEN lovers are thinking of marriage they are
 wont to protest or pledge to each other that their

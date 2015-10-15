@@ -5,6 +5,7 @@ permalink: 04-chapter02.html
 id: s4
 group: sections
 ---
+## Chapter II: Diverse Theories of Marriage and of the Family Which Now Prevail
 
 HE who writes a theory of marriage has no blank
 page to write upon. There are already among

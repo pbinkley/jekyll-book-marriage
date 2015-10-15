@@ -5,6 +5,7 @@ permalink: 19-chapter17.html
 id: s19
 group: sections
 ---
+## Chapter XVII: Marriage and Art
 
 WE cannot live by the book. However coherent
 and adequate our standards may be, it remains

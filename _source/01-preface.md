@@ -6,6 +6,8 @@ id: s1
 group: sections
 ---
 
+## Preface
+
 IF some one denounces a butcher or grocer for giving
 short weight, the denunciation implies the existence of a
 system of weights and measures. If some one condemns

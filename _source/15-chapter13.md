@@ -5,6 +5,7 @@ permalink: 15-chapter13.html
 id: s15
 group: sections
 ---
+## Chapter XIII: The Function of the Family
 
 ONE who is about to invest his life in marriage has
 no disposition to look for the consequences which

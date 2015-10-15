@@ -5,6 +5,7 @@ permalink: 00-front-matter.html
 id: s0
 group: sections
 ---
+## Front Matter
 
 \[cover\]
 

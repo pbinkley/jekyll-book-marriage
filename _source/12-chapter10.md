@@ -5,6 +5,7 @@ permalink: 12-chapter10.html
 id: s12
 group: sections
 ---
+## Chapter X: The Domestic View of Human Nature
 
 WHEN two young things promise to love and to
 cherish one another, they take for granted the

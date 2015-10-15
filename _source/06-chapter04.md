@@ -5,6 +5,7 @@ permalink: 06-chapter04.html
 id: s6
 group: sections
 ---
+## Chapter IV: Of the Nature of a Personal Relationship
 
 No offense is greater in a lover than this: that he
 should treat his love "impersonally." No lapse is
