@@ -5,6 +5,7 @@ permalink: 11-chapter09.html
 id: s11
 group: sections
 ---
+## Chapter IX: The Family and Self-Interest
 
 IN our conscious life ideas of self-interest are usually
 more sharply defined than ideas of convention and

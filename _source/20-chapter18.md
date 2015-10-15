@@ -5,6 +5,7 @@ permalink: 20-chapter18.html
 id: s20
 group: sections
 ---
+## Chapter XVIII: Marriage and the Individual
 
 THE principles of marriage value and of marriage
 art have necessarily brought to a common focus

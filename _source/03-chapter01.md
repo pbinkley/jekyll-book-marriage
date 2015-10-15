@@ -5,6 +5,7 @@ permalink: 03-chapter01.html
 id: s3
 group: sections
 ---
+## Chapter I: How It Came About That Domestic Theory was Written Down
 
 THE authors of this little book are married. They
 have been married for years. Having loved each

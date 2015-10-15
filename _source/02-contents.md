@@ -5,6 +5,7 @@ permalink: 02-contents.html
 id: s2
 group: sections
 ---
+## Contents
 
 |------|-----------------------------|----|
 |||PAGE|

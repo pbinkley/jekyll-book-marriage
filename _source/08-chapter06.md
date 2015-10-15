@@ -5,6 +5,7 @@ permalink: 08-chapter06.html
 id: s8
 group: sections
 ---
+## Chapter VI: The Natural Family
 
 THE word *family* has never been adequately disciplined and defined. It has not been invested with
 precise meaning. In common usage it may mean many

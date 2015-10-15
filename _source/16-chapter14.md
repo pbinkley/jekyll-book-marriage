@@ -5,6 +5,7 @@ permalink: 16-chapter14.html
 id: s16
 group: sections
 ---
+## Chapter XIV: The Four Types of the Natural Family
 
 WHEN the two authors of this treatise set their
 minds to the making of a theory of family life

@@ -5,6 +5,7 @@ permalink: 10-chapter08.html
 id: s10
 group: sections
 ---
+## Chapter VIII: The Family and Authority
 
 JUST as the examination of *convention* revealed an
 antithesis between family and society, so also an

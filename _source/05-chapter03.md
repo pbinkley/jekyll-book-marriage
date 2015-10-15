@@ -5,6 +5,7 @@ permalink: 05-chapter03.html
 id: s5
 group: sections
 ---
+## Chapter III: The Place of Domestic Theory among the Social Sciences
 
 TO build a theory that will contain and explain the
 variable imponderables of the marriage relationship

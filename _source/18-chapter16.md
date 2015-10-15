@@ -5,6 +5,7 @@ permalink: 18-chapter16.html
 id: s18
 group: sections
 ---
+## Chapter XVI: Marriage and Sex Monopoly
 
 THE marriage customs of the Western World attribute an enormous importance to the sex-monopoly
 aspect of marriage. Virginity is protected before marriage; adultery is prohibited afterward. Save for those

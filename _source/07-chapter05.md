@@ -5,6 +5,7 @@ permalink: 07-chapter05.html
 id: s7
 group: sections
 ---
+## Chapter V: Of the Nature of Marriage
 
 MARRIAGE is a personal relationship between a
 man and a woman, involving sex intercourse between them, and having an aspect of permanence or duration. There are many personal relationships which are

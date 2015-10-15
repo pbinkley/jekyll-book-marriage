@@ -5,6 +5,7 @@ permalink: 09-chapter07.html
 id: s9
 group: sections
 ---
+## Chapter VII: The Family and Convention
 
 IT is an axiom of courtship that a man and a woman
 can best make love to each other when they are
