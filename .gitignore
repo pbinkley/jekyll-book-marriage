@@ -3,3 +3,5 @@ _site
 _scripts/deploy.sh
 Gemfile.lock
 sections
+downloads
+_data/downloads.yml
