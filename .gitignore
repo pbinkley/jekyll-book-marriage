@@ -1,5 +1,7 @@
 _site
 .sass-cache
 Gemfile.lock
-downloads
 _scripts/deploy.sh
+sections
+downloads
+_data/downloads.yml
