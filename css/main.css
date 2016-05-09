@@ -37,16 +37,9 @@ p {
   margin-bottom: 0; 
 }
 article > p:first-child {
-	float: right;
-	padding: 10px;
-	border: 1px solid black;
-	margin: 4px;
-	text-indent: 0;
-}
-article > p:nth-child(2) {
     text-indent: 0;
 }
-article > p:nth-child(2):first-letter { 
+article > p:first-child:first-letter { 
 	float: left; 
 	font-size: 75px; 
 	line-height: 60px; 
@@ -83,11 +76,9 @@ div.footnotes {
 }
 
 div.box {
-	max-width: 550px;
 	border: 1px solid black;
 	padding: 20px;
 	margin: 20px auto;
-	font-family: Courier, monospace;
 	font-size: 0.8em;
 }
 
@@ -96,10 +87,6 @@ div.box p {
 	margin-bottom: 10px;
 }
 
-div.box em {
-	font-style: normal;
-	text-decoration: underline;
-}
 dt {
 	margin-top: 1em;
 }

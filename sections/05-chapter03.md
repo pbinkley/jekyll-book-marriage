@@ -236,15 +236,37 @@ character of the relationship of man to wife.
 
 \[p.28\] 
 
-#### DOMESTIC THEORY AND THE SOCIAL SCIENCES
+<div class="box" markdown="1">
 
-||*Science or Discipline*|*Relationship*|*Subject Matter*|*View of Human Nature*|
-|----|----|----|----|----|
-|Social Sciences: deal with man in relationship to other men|||||
-||Sociology|Social influence|The Group|Man responds to influence of group.|
-||Political theory|Political domination|The State|Man subject to the will of other persons under authority.|
-||Economic theory|Economic interest|The Economic System|Man acts in his own interests.|
-||Domestic theory|Personal|The Family|Man acts in the interests of another person.| 
+#### Domestic Theory and the Social Sciences
+
+\ 
+
+---------------------------------------------------------------------------------------
+                   *Science    *Relationship*   *Subject     *View of Human Nature*
+                   or                           Matter* 
+                   Discipline*
+------------------ ----------- ---------------- ------------ --------------------------
+Social Sciences: 
+deal with man in 
+relationship to 
+other men
+
+                   Sociology   Social influence The Group    Man responds to influence 
+                                                             of group.
+
+                   Political   Political        The State    Man subject to the will 
+                   theory      domination                    of other persons under 
+                                                             authority.
+                                                               
+                   Economic    Economic         The Economic Man acts in his own
+                   theory      interest         System       interests.
+
+                   Domestic    Personal         The Family   Man acts in the interests 
+                   theory                                    of another person.
+---------------------------------------------------------------------------------------
+
+</div>
 
 \[p.29\] In writing an Outline of Domestic Theory one would
 endeavor first to define this personal relationship on which
