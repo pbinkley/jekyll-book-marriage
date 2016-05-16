@@ -1,3 +1,4 @@
+---
 # Site settings
 title: What is Right with Marriage
 brand: What is Right with Marriage
@@ -33,3 +34,5 @@ gems:
   - octopress-debugger
   - jekyll-lunr-js-search
   - jekyll-pandoc
+---
+
