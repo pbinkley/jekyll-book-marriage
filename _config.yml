@@ -7,6 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   An Outline of Domestic Theory (New York: D. Appleton, 1929)
 baseurl: "/rcb/works/marriage" # the subpath of your site, e.g. /blog/
 url: "https://www.wallandbinkley.com"
+license_icon: publicdomain
+license_text: "To the extent possible under law, Mary Author has waived all copyright and related or neighboring rights to \"Title of Book\". This work is published from: Canada."
+jb_credit_latex: "Generated with jekyll-book ¶ \\href{https://github.com/pbinkley/jekyll-book}{https://github.com/pbinkley/jekyll-book}"
 
 # Build settings
 markdown: pandoc
