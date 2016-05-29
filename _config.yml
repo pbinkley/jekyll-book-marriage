@@ -11,9 +11,15 @@ description: > # this means to ignore newlines until "baseurl:"
   An Outline of Domestic Theory} (New York: D. Appleton, 1929)
 baseurl: "/rcb/works/marriage" # the subpath of your site, e.g. /blog/
 url: "https://www.wallandbinkley.com"
+
+# Build settings
+editor: Peter Binkley
 license_icon: publicdomain
 license_text: "To the extent possible under law, Peter Binkley has waived all copyright and related or neighboring rights to \"What is Right with Marriage\". This work is published from: Canada."
 jb_credit_latex: "Generated with jekyll-book ¶ \\href{https://github.com/pbinkley/jekyll-book}{https://github.com/pbinkley/jekyll-book}"
+dirdownloads: downloads
+dircontent: sections
+previousrun: _data/previousrun.yml
 
 # Build settings
 markdown: pandoc
@@ -33,13 +39,24 @@ navigation:
         dropdown: sections
       - title: Downloads
         dropdown: downloads
-  right:
-    content: searchbox.html
 
 gems:
   - jekyll-sitemap
   - octopress-debugger
   - jekyll-lunr-js-search
   - jekyll-pandoc
----
 
+downloads:
+    pdf:
+      deps: ["_config.yml","_latex/jekyll-book.latex","_scripts/preprocess.rb"]
+      command: "cat _config.yml sections/*.md | _scripts/preprocess.rb | pandoc --latex-engine=xelatex --template=_latex/jekyll-book.latex -f markdown+pipe_tables+footnotes -o %{dirDownloads}/%{slug}.pdf"
+    epub:
+      deps: ["_config.yml","_epub-metadata.yml","assets/cover.jpg"]
+      command: "pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_epub-metadata.yml -f markdown+pipe_tables+footnotes sections/*.md  -o %{dirDownloads}/%{slug}.epub"
+    md:
+      deps: ["_config.yml"]
+      command: "pandoc sections/*.md -t plain -o %{dirDownloads}/%{slug}.txt"
+    txt:
+      deps: ["_config.yml"]
+      command: "pandoc sections/*.md -o %{dirDownloads}/%{slug}.md"
+---
