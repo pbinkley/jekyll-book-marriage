@@ -4,4 +4,4 @@ Gemfile.lock
 _scripts/deploy.sh
 sections
 downloads
-_data/downloads.yml
+_data
