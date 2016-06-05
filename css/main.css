@@ -47,14 +47,18 @@ article > p:first-child:first-letter {
 	padding-right: 8px; 
 	padding-left: 3px; 
 }
+
 article > table {
 	margin: 0 auto;
+    margin-top: 20px;
 }
-
 
 td, th {
 	vertical-align: top;
 	padding: 0 5px;
+}
+th {
+	font-weight: bold;
 }
 blockquote {
 	padding-left: 50px;
