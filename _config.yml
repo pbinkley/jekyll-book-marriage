@@ -7,6 +7,9 @@ author: Robert C. Binkley and Frances W. Binkley
 editor: Peter Binkley
 date: 1929
 description: > # this means to ignore newlines until "baseurl:"
+  Robert C. Binkley and Frances W. Binkley, What is Right with Marriage: 
+  An Outline of Domestic Theory (New York: D. Appleton, 1929)
+description_latex: > # this means to ignore newlines until "baseurl:"
   Robert C. Binkley and Frances W. Binkley, \textit{What is Right with Marriage: 
   An Outline of Domestic Theory} (New York: D. Appleton, 1929)
 baseurl: "/rcb/works/marriage" # the subpath of your site, e.g. /blog/
@@ -14,18 +17,22 @@ url: "https://www.wallandbinkley.com"
 
 # Build settings
 editor: Peter Binkley
+twitter: "@robertcbinkley"
 license_icon: publicdomain
 license_text: "To the extent possible under law, Peter Binkley has waived all copyright and related or neighboring rights to \"What is Right with Marriage\". This work is published from: Canada."
 jb_credit_latex: "Generated with jekyll-book ¶ \\href{https://github.com/pbinkley/jekyll-book}{https://github.com/pbinkley/jekyll-book}"
+# Country info for CC license vcard in _includes/license.html
+country_name: Canada
+country_code : CA
 dirdownloads: downloads
 dircontent: sections
 previousrun: _data/previousrun.yml
 
 # Build settings
-markdown: pandoc
-# downloads.yml is generated during the rendering, so we need to 
-# ignore it or it will cause an infinite loop of re-rendering
-exclude: ['_data/downloads.yml','downloads']
+markdown: Pandoc
+# downloads files are generated during the rendering, so we need to 
+# ignore them or it will cause an infinite loop of re-rendering
+exclude: ['_data/previousrun.yml','downloads','Gemfile*','README.md']
 
 # The navigation.
 navigation:
