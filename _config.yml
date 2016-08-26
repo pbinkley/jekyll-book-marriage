@@ -21,7 +21,8 @@ twitter: "@robertcbinkley"
 license_icon: publicdomain
 license_text: "To the extent possible under law, Peter Binkley has waived all copyright and related or neighboring rights to \"What is Right with Marriage\". This work is published from: Canada."
 jb_credit_latex: "Generated with jekyll-book ¶ \\href{https://github.com/pbinkley/jekyll-book}{https://github.com/pbinkley/jekyll-book}"
-# Country info for CC license vcard in _includes/license.html
+# Info for CC license vcard in _includes/license.html
+publisher_url: "http://www.wallandbinkley.com/rcb/"
 country_name: Canada
 country_code : CA
 dirdownloads: downloads
@@ -30,6 +31,11 @@ previousrun: _data/previousrun.yml
 
 # Build settings
 markdown: Pandoc
+pandoc:
+  extensions:
+    - normalize
+    - smart
+
 # downloads files are generated during the rendering, so we need to 
 # ignore them or it will cause an infinite loop of re-rendering
 exclude: ['_data/previousrun.yml','downloads','Gemfile*','README.md']

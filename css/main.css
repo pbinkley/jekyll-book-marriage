@@ -97,3 +97,15 @@ dt {
 section.footnotes > ol::before {
 	content: "Notes:";
 }
+div.cover p {
+	text-indent: 0;
+	font-size: 75%;
+}
+div.cover img {
+	width: 100%;
+}
+.scrollable-menu {
+    height: auto;
+    max-height: 450px;
+    overflow-x: hidden;
+}
